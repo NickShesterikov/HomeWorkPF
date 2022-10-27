@@ -1,0 +1,12 @@
+﻿  ArrayFunctions.c
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(55,37): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(55,31): warning C4024: GenerateRandomNumbersInArray: различные типы для формального и фактического параметров 1
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(57,57): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(57,51): warning C4024: findMin: различные типы для формального и фактического параметров 1
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(59,57): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(59,51): warning C4024: findMax: различные типы для формального и фактического параметров 1
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(61,52): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(61,46): warning C4024: average: различные типы для формального и фактического параметров 1
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(63,21): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int **"
+C:\Users\shest\source\repos\OP_Test\OP_Test\ArrayFunctions.c(63,15): warning C4024: printAnArray: различные типы для формального и фактического параметров 1
+  OP_Test.vcxproj -> C:\Users\shest\source\repos\OP_Test\x64\Debug\OP_Test.exe

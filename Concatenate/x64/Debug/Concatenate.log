@@ -1,0 +1,8 @@
+﻿  StringConcatenation.c
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(29,21): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(30,17): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [2]"
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(31,21): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(28,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "char"
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(43,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\shest\source\repos\OP_Test\Concatenate\StringConcatenation.c(43,12): warning C4313: printf: конфликт "%s" в строке формата с аргументом 1 типа "int"
+  Concatenate.vcxproj -> C:\Users\shest\source\repos\OP_Test\x64\Debug\Concatenate.exe
